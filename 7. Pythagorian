@@ -1,0 +1,11 @@
+Name=input("Enter your Name: ")
+
+print(Name)
+
+Age=int(input("Enter Your Age: "))
+print(Age)
+
+a=int(input("Input one sides legth: "))
+b=int(input("Input other sides legth: "))
+c=(a**2+b**2)**.5
+print(c)
