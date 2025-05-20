@@ -1,0 +1,11 @@
+Pesos= float (input ("What do you have left in pesos? "))
+print (Pesos)
+Soles= float (input ("What do you have left in soles? "))
+print (Soles)
+Reais= float (input ("What do you have left in reaios? "))
+print (Reais)
+D1=(Pesos*0.00024)
+D2=(Soles*0.27)
+D3=(Reais*0.18)
+Dollar=D1+D2+D3
+print (Dollar)
